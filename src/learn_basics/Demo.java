@@ -5,5 +5,6 @@ public class Demo {
     	System.out.println("Hello World");
     	System.out.print("How are you??");
     	System.out.println("I am fine what about you");
+    	System.out.println();
     }
 }
